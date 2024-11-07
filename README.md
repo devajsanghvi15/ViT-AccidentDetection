@@ -70,4 +70,4 @@ The following image presents the results of our experiments, including False Ala
 
 If you would like to know more about our project, you can read our paper [here](https://dx.doi.org/10.21203/rs.3.rs-3903862/v1).
 
-For Ubuntu refer this [repo](https://github.com/ud4yy/ViT-AccidentDetection). 
+For Linux refer this [repo](https://github.com/ud4yy/ViT-AccidentDetection). 
